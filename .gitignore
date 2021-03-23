@@ -1,0 +1,16 @@
+# Maven #
+target/
+
+# IDEA #
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse #
+.settings/
+.classpath
+.project
+*.log
+.vscode
+.factorypath
